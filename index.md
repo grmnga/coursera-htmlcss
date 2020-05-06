@@ -10,5 +10,6 @@
     <li><a href="module2-solution">Module 2 Solution</a></li>
     <li><a href="module3-solution">Module 3 Solution</a></li>
     <li><a href="module4-solution">Module 4 Solution</a></li>
+    <li><a href="module4-solution">Module 5 Solution</a></li>
 </ul>
 </div>
